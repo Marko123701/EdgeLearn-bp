@@ -1,2 +1,2 @@
 # EdgeLearn-bp
-Webová e-learning aplikácia zameraná na téme Edge Computingu.
+Webová e-learning aplikácia zameraná na tému Edge Computingu.
